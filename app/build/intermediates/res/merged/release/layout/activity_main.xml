@@ -1,0 +1,23 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" 
+	android:background="@drawable/overlay"
+    android:orientation="vertical"
+  >
+    
+    
+    <ListView
+        android:id="@+android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/bg"
+        android:divider="@color/light_font"
+        android:dividerHeight="1.0sp"
+        android:drawSelectorOnTop="false"
+        android:headerDividersEnabled="true"
+        android:layout_marginLeft="15dp"
+    	android:layout_marginRight="15dp" />
+    </LinearLayout>

@@ -1,0 +1,56 @@
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy[] values()
+com.google.gson.FieldNamingPolicy: com.google.gson.FieldNamingPolicy valueOf(java.lang.String)
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy[] values()
+com.google.gson.LongSerializationPolicy: com.google.gson.LongSerializationPolicy valueOf(java.lang.String)
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken[] values()
+com.google.gson.stream.JsonToken: com.google.gson.stream.JsonToken valueOf(java.lang.String)
+org.jefferyemanuel.contentProviders.GroupSuggestionContentProvider
+org.jefferyemanuel.contentProviders.GroupSuggestionContentProvider: GroupSuggestionContentProvider()
+org.jefferyemanuel.mainStuff.MainActivity
+org.jefferyemanuel.mainStuff.MainActivity: MainActivity()
+org.jefferyemanuel.mainStuff.R$color: int black
+org.jefferyemanuel.mainStuff.R$color: int blue
+org.jefferyemanuel.mainStuff.R$color: int crystal_blue
+org.jefferyemanuel.mainStuff.R$color: int error_message
+org.jefferyemanuel.mainStuff.R$color: int faint_neongreen
+org.jefferyemanuel.mainStuff.R$color: int gold
+org.jefferyemanuel.mainStuff.R$color: int green
+org.jefferyemanuel.mainStuff.R$color: int grey_font
+org.jefferyemanuel.mainStuff.R$color: int light_font
+org.jefferyemanuel.mainStuff.R$color: int pink
+org.jefferyemanuel.mainStuff.R$color: int red
+org.jefferyemanuel.mainStuff.R$color: int text_shadow
+org.jefferyemanuel.mainStuff.R$color: int text_shadow_white
+org.jefferyemanuel.mainStuff.R$color: int translucent_red
+org.jefferyemanuel.mainStuff.R$color: int white
+org.jefferyemanuel.mainStuff.R$dimen: int activity_horizontal_margin
+org.jefferyemanuel.mainStuff.R$dimen: int activity_vertical_margin
+org.jefferyemanuel.mainStuff.R$drawable: int bg
+org.jefferyemanuel.mainStuff.R$drawable: int dimmer
+org.jefferyemanuel.mainStuff.R$drawable: int ic_launcher
+org.jefferyemanuel.mainStuff.R$drawable: int overlay
+org.jefferyemanuel.mainStuff.R$drawable: int rounded_corners
+org.jefferyemanuel.mainStuff.R$id: int container_info
+org.jefferyemanuel.mainStuff.R$id: int container_list_item
+org.jefferyemanuel.mainStuff.R$id: int inputSearch
+org.jefferyemanuel.mainStuff.R$id: int iv_avatar
+org.jefferyemanuel.mainStuff.R$id: int menu_search
+org.jefferyemanuel.mainStuff.R$id: int text
+org.jefferyemanuel.mainStuff.R$id: int toast_layout_root
+org.jefferyemanuel.mainStuff.R$id: int tv_author
+org.jefferyemanuel.mainStuff.R$id: int tv_message
+org.jefferyemanuel.mainStuff.R$layout: int activity_main
+org.jefferyemanuel.mainStuff.R$layout: int layout_search
+org.jefferyemanuel.mainStuff.R$layout: int list_item
+org.jefferyemanuel.mainStuff.R$layout: int toast_layout
+org.jefferyemanuel.mainStuff.R$menu: int main
+org.jefferyemanuel.mainStuff.R$string: int action_settings
+org.jefferyemanuel.mainStuff.R$string: int app_name
+org.jefferyemanuel.mainStuff.R$string: int hint_search
+org.jefferyemanuel.mainStuff.R$string: int search_label
+org.jefferyemanuel.mainStuff.R$string: int warning_bad_data
+org.jefferyemanuel.mainStuff.R$string: int warning_no_connection
+org.jefferyemanuel.mainStuff.R$string: int warning_no_data_collected
+org.jefferyemanuel.mainStuff.R$style: int AppBaseTheme
+org.jefferyemanuel.mainStuff.R$style: int AppTheme
+org.jefferyemanuel.mainStuff.R$xml: int searchable

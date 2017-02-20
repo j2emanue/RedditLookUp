@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rather Extreme Daily Dose of Internet Trolling LookUp</string>
+    <string name="action_settings">Settings</string>
+
+    
+    <!-- warnings -->
+    <string name="warning_no_connection">Your network connection might be down.  Please verify.  Unable to continue.</string>
+   
+    <string name="warning_bad_data">Please enter a valid search term.</string>
+    <string name="warning_no_data_collected">No data found or network error.</string>
+    
+   
+    <!--hints -->
+    <string name="hint_search">Search site</string>
+    
+    
+    <!-- labels -->
+<string name="search_label">Search</string>
+    
+
+</resources>

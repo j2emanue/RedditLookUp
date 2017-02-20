@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/layout/toast_layout.xml",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/layout/toast_layout.xml"
+    },
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/layout/layout_search.xml",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/layout/layout_search.xml"
+    },
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/layout/list_item.xml",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/layout/list_item.xml"
+    }
+]

@@ -1,0 +1,251 @@
+com.jakewharton.disklrucache.DiskLruCache -> a.a.a.a:
+    java.util.regex.Pattern LEGAL_KEY_PATTERN -> a
+    java.io.File directory -> c
+    java.io.File journalFile -> d
+    java.io.File journalFileTmp -> e
+    java.io.File journalFileBackup -> f
+    int appVersion -> g
+    long maxSize -> h
+    int valueCount -> i
+    long size -> j
+    java.io.Writer journalWriter -> k
+    java.util.LinkedHashMap lruEntries -> l
+    int redundantOpCount -> m
+    long nextSequenceNumber -> n
+    java.util.concurrent.ThreadPoolExecutor executorService -> b
+    java.util.concurrent.Callable cleanupCallable -> o
+    java.io.OutputStream NULL_OUTPUT_STREAM -> p
+    void <init>(java.io.File,int,int,long) -> <init>
+    com.jakewharton.disklrucache.DiskLruCache open(java.io.File,int,int,long) -> a
+    void readJournal() -> d
+    void readJournalLine(java.lang.String) -> d
+    void processJournal() -> e
+    void rebuildJournal() -> f
+    void deleteIfExists(java.io.File) -> a
+    void renameTo(java.io.File,java.io.File,boolean) -> a
+    com.jakewharton.disklrucache.DiskLruCache$Snapshot get(java.lang.String) -> a
+    com.jakewharton.disklrucache.DiskLruCache$Editor edit(java.lang.String) -> b
+    com.jakewharton.disklrucache.DiskLruCache$Editor edit(java.lang.String,long) -> a
+    void completeEdit(com.jakewharton.disklrucache.DiskLruCache$Editor,boolean) -> a
+    boolean journalRebuildRequired() -> g
+    boolean remove(java.lang.String) -> c
+    void checkNotClosed() -> h
+    void flush() -> a
+    void close() -> close
+    void trimToSize() -> i
+    void delete() -> b
+    void validateKey(java.lang.String) -> e
+    java.io.Writer access$000(com.jakewharton.disklrucache.DiskLruCache) -> a
+    void access$100(com.jakewharton.disklrucache.DiskLruCache) -> b
+    boolean access$200(com.jakewharton.disklrucache.DiskLruCache) -> c
+    void access$300(com.jakewharton.disklrucache.DiskLruCache) -> d
+    int access$402(com.jakewharton.disklrucache.DiskLruCache,int) -> a
+    int access$1800(com.jakewharton.disklrucache.DiskLruCache) -> e
+    java.io.File access$1900(com.jakewharton.disklrucache.DiskLruCache) -> f
+    java.io.OutputStream access$2000() -> c
+    void access$2200(com.jakewharton.disklrucache.DiskLruCache,com.jakewharton.disklrucache.DiskLruCache$Editor,boolean) -> a
+    void <clinit>() -> <clinit>
+com.jakewharton.disklrucache.DiskLruCache$1 -> a.a.a.a$1:
+    com.jakewharton.disklrucache.DiskLruCache this$0 -> a
+    void <init>(com.jakewharton.disklrucache.DiskLruCache) -> <init>
+    java.lang.Void call() -> a
+    java.lang.Object call() -> call
+com.jakewharton.disklrucache.DiskLruCache$2 -> a.a.a.a$2:
+    void <init>() -> <init>
+    void write(int) -> write
+com.jakewharton.disklrucache.DiskLruCache$Editor -> a.a.a.a$a:
+    com.jakewharton.disklrucache.DiskLruCache$Entry entry -> b
+    boolean[] written -> c
+    boolean hasErrors -> d
+    boolean committed -> e
+    com.jakewharton.disklrucache.DiskLruCache this$0 -> a
+    void <init>(com.jakewharton.disklrucache.DiskLruCache,com.jakewharton.disklrucache.DiskLruCache$Entry) -> <init>
+    java.io.OutputStream newOutputStream(int) -> a
+    void commit() -> a
+    void abort() -> b
+    void <init>(com.jakewharton.disklrucache.DiskLruCache,com.jakewharton.disklrucache.DiskLruCache$Entry,com.jakewharton.disklrucache.DiskLruCache$1) -> <init>
+    com.jakewharton.disklrucache.DiskLruCache$Entry access$1400(com.jakewharton.disklrucache.DiskLruCache$Editor) -> a
+    boolean[] access$1500(com.jakewharton.disklrucache.DiskLruCache$Editor) -> b
+    boolean access$2302(com.jakewharton.disklrucache.DiskLruCache$Editor,boolean) -> a
+com.jakewharton.disklrucache.DiskLruCache$Editor$FaultHidingOutputStream -> a.a.a.a$a$a:
+    com.jakewharton.disklrucache.DiskLruCache$Editor this$1 -> a
+    void <init>(com.jakewharton.disklrucache.DiskLruCache$Editor,java.io.OutputStream) -> <init>
+    void write(int) -> write
+    void write(byte[],int,int) -> write
+    void close() -> close
+    void flush() -> flush
+    void <init>(com.jakewharton.disklrucache.DiskLruCache$Editor,java.io.OutputStream,com.jakewharton.disklrucache.DiskLruCache$1) -> <init>
+com.jakewharton.disklrucache.DiskLruCache$Entry -> a.a.a.a$b:
+    java.lang.String key -> b
+    long[] lengths -> c
+    boolean readable -> d
+    com.jakewharton.disklrucache.DiskLruCache$Editor currentEditor -> e
+    long sequenceNumber -> f
+    com.jakewharton.disklrucache.DiskLruCache this$0 -> a
+    void <init>(com.jakewharton.disklrucache.DiskLruCache,java.lang.String) -> <init>
+    java.lang.String getLengths() -> a
+    void setLengths(java.lang.String[]) -> a
+    java.io.IOException invalidLengths(java.lang.String[]) -> b
+    java.io.File getCleanFile(int) -> a
+    java.io.File getDirtyFile(int) -> b
+    void <init>(com.jakewharton.disklrucache.DiskLruCache,java.lang.String,com.jakewharton.disklrucache.DiskLruCache$1) -> <init>
+    boolean access$602(com.jakewharton.disklrucache.DiskLruCache$Entry,boolean) -> a
+    com.jakewharton.disklrucache.DiskLruCache$Editor access$702(com.jakewharton.disklrucache.DiskLruCache$Entry,com.jakewharton.disklrucache.DiskLruCache$Editor) -> a
+    void access$800(com.jakewharton.disklrucache.DiskLruCache$Entry,java.lang.String[]) -> a
+    com.jakewharton.disklrucache.DiskLruCache$Editor access$700(com.jakewharton.disklrucache.DiskLruCache$Entry) -> a
+    long[] access$1000(com.jakewharton.disklrucache.DiskLruCache$Entry) -> b
+    java.lang.String access$1100(com.jakewharton.disklrucache.DiskLruCache$Entry) -> c
+    boolean access$600(com.jakewharton.disklrucache.DiskLruCache$Entry) -> d
+    long access$1200(com.jakewharton.disklrucache.DiskLruCache$Entry) -> e
+    long access$1202(com.jakewharton.disklrucache.DiskLruCache$Entry,long) -> a
+com.jakewharton.disklrucache.DiskLruCache$Snapshot -> a.a.a.a$c:
+    java.lang.String key -> b
+    long sequenceNumber -> c
+    java.io.InputStream[] ins -> d
+    long[] lengths -> e
+    com.jakewharton.disklrucache.DiskLruCache this$0 -> a
+    void <init>(com.jakewharton.disklrucache.DiskLruCache,java.lang.String,long,java.io.InputStream[],long[]) -> <init>
+    java.io.InputStream getInputStream(int) -> a
+    void close() -> close
+    void <init>(com.jakewharton.disklrucache.DiskLruCache,java.lang.String,long,java.io.InputStream[],long[],com.jakewharton.disklrucache.DiskLruCache$1) -> <init>
+com.jakewharton.disklrucache.StrictLineReader -> a.a.a.b:
+    java.io.InputStream in -> a
+    java.nio.charset.Charset charset -> b
+    byte[] buf -> c
+    int pos -> d
+    int end -> e
+    void <init>(java.io.InputStream,java.nio.charset.Charset) -> <init>
+    void <init>(java.io.InputStream,int,java.nio.charset.Charset) -> <init>
+    void close() -> close
+    java.lang.String readLine() -> a
+    void fillBuf() -> b
+    java.nio.charset.Charset access$000(com.jakewharton.disklrucache.StrictLineReader) -> a
+com.jakewharton.disklrucache.StrictLineReader$1 -> a.a.a.b$1:
+    com.jakewharton.disklrucache.StrictLineReader this$0 -> a
+    void <init>(com.jakewharton.disklrucache.StrictLineReader,int) -> <init>
+    java.lang.String toString() -> toString
+com.jakewharton.disklrucache.Util -> a.a.a.c:
+    java.nio.charset.Charset US_ASCII -> a
+    java.nio.charset.Charset UTF_8 -> b
+    void deleteContents(java.io.File) -> a
+    void closeQuietly(java.io.Closeable) -> a
+    void <clinit>() -> <clinit>
+org.jefferyemanuel.asynchtask.RetrieveGroups_LongOperation -> org.jefferyemanuel.a.a:
+    org.jefferyemanuel.listeners.ReceiveGroupListener mCallbacks -> a
+    android.content.Context mContext -> b
+    void <init>(android.content.ContentProvider) -> <init>
+    java.util.ArrayList doInBackground(java.lang.String[]) -> a
+    void onPostExecute(java.util.ArrayList) -> a
+    void onPostExecute(java.lang.Object) -> onPostExecute
+    java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
+org.jefferyemanuel.asynchtask.RetrieveRedits_LongOperation -> org.jefferyemanuel.a.b:
+    org.jefferyemanuel.listeners.TaskCallbacks mCallbacks -> b
+    android.content.Context mContext -> c
+    java.util.ArrayList userInfo -> a
+    void <init>(android.content.Context) -> <init>
+    void onCancelled() -> onCancelled
+    java.lang.Boolean doInBackground(java.lang.String[]) -> a
+    void onPostExecute(java.lang.Boolean) -> a
+    void onPreExecute() -> onPreExecute
+    void onProgressUpdate(java.lang.Integer[]) -> a
+    void onProgressUpdate(java.lang.Object[]) -> onProgressUpdate
+    void onPostExecute(java.lang.Object) -> onPostExecute
+    java.lang.Object doInBackground(java.lang.Object[]) -> doInBackground
+org.jefferyemanuel.contentProviders.GroupSuggestionContentProvider -> org.jefferyemanuel.contentProviders.GroupSuggestionContentProvider:
+    android.content.UriMatcher uriMatcher -> a
+    int i -> b
+    java.lang.String[] SEARCH_SUGGEST_COLUMNS -> c
+    java.util.ArrayList groupListing -> d
+    void <init>() -> <init>
+    int delete(android.net.Uri,java.lang.String,java.lang.String[]) -> delete
+    java.lang.String getType(android.net.Uri) -> getType
+    android.net.Uri insert(android.net.Uri,android.content.ContentValues) -> insert
+    boolean onCreate() -> onCreate
+    void loadGroups() -> a
+    android.database.Cursor query(android.net.Uri,java.lang.String[],java.lang.String,java.lang.String[],java.lang.String) -> query
+    int update(android.net.Uri,android.content.ContentValues,java.lang.String,java.lang.String[]) -> update
+    void goupListingAcquired(java.util.ArrayList) -> a
+    void <clinit>() -> <clinit>
+org.jefferyemanuel.listeners.ReceiveGroupListener -> org.jefferyemanuel.b.a:
+    void goupListingAcquired(java.util.ArrayList) -> a
+org.jefferyemanuel.listeners.TaskCallbacks -> org.jefferyemanuel.b.b:
+    void onPreExecute() -> a
+    void onPostExecute(java.util.ArrayList) -> a
+org.jefferyemanuel.mainStuff.DiskLruImageCache -> org.jefferyemanuel.mainStuff.a:
+    com.jakewharton.disklrucache.DiskLruCache mDiskCache -> a
+    android.graphics.Bitmap$CompressFormat mCompressFormat -> b
+    int mCompressQuality -> c
+    android.content.Context context -> d
+    void <init>(android.content.Context,java.lang.String,int,android.graphics.Bitmap$CompressFormat,int) -> <init>
+    boolean writeBitmapToFile(android.graphics.Bitmap,com.jakewharton.disklrucache.DiskLruCache$Editor) -> a
+    java.io.File getDiskCacheDir(android.content.Context,java.lang.String) -> a
+    void put(java.lang.String,android.graphics.Bitmap) -> a
+    android.graphics.Bitmap getBitmap(java.lang.String,android.widget.ImageView) -> a
+    android.content.Context access$000(org.jefferyemanuel.mainStuff.DiskLruImageCache) -> a
+org.jefferyemanuel.mainStuff.DiskLruImageCache$1 -> org.jefferyemanuel.mainStuff.a$1:
+    java.lang.String val$key -> a
+    android.widget.ImageView val$imageView -> b
+    java.lang.String val$safeKey -> c
+    org.jefferyemanuel.mainStuff.DiskLruImageCache this$0 -> d
+    void <init>(org.jefferyemanuel.mainStuff.DiskLruImageCache,java.lang.String,android.widget.ImageView,java.lang.String) -> <init>
+    void run() -> run
+org.jefferyemanuel.mainStuff.DiskLruImageCache$1$1 -> org.jefferyemanuel.mainStuff.a$1$1:
+    android.graphics.Bitmap val$b -> a
+    org.jefferyemanuel.mainStuff.DiskLruImageCache$1 this$1 -> b
+    void <init>(org.jefferyemanuel.mainStuff.DiskLruImageCache$1,android.graphics.Bitmap) -> <init>
+    void run() -> run
+org.jefferyemanuel.mainStuff.JSONParser -> org.jefferyemanuel.mainStuff.b:
+    java.io.InputStream is -> a
+    android.content.Context context -> b
+    void <init>(android.content.Context) -> <init>
+    org.json.JSONObject getJSONFromUrl(java.lang.String) -> a
+    java.util.ArrayList parseJsonRedits(org.json.JSONObject) -> a
+    java.util.ArrayList parseJsonReditGroups(org.json.JSONObject) -> b
+    java.lang.String concatString(java.lang.String,java.lang.String,java.lang.String) -> a
+    void <clinit>() -> <clinit>
+org.jefferyemanuel.mainStuff.MainActivity -> org.jefferyemanuel.mainStuff.MainActivity:
+    org.jefferyemanuel.mainStuff.DiskLruImageCache imageDiskCache -> a
+    android.app.ProgressDialog pdialog -> b
+    android.widget.ListAdapter mAdapter -> c
+    android.widget.ListView mListview -> d
+    android.widget.SearchView mSearchView -> e
+    void <init>() -> <init>
+    void onCreate(android.os.Bundle) -> onCreate
+    boolean onCreateOptionsMenu(android.view.Menu) -> onCreateOptionsMenu
+    void onNewIntent(android.content.Intent) -> onNewIntent
+    boolean onQueryTextChange(java.lang.String) -> onQueryTextChange
+    boolean onQueryTextSubmit(java.lang.String) -> onQueryTextSubmit
+    void showErrorDialog(java.lang.String) -> a
+    void onPreExecute() -> a
+    void onPostExecute(java.util.ArrayList) -> a
+    void onItemClick(android.widget.AdapterView,android.view.View,int,long) -> onItemClick
+org.jefferyemanuel.mainStuff.MyDialogFragment -> org.jefferyemanuel.mainStuff.c:
+    android.content.Context mContext -> a
+    void <init>(android.content.Context) -> <init>
+    void <init>() -> <init>
+    org.jefferyemanuel.mainStuff.MyDialogFragment newInstance(android.content.Context) -> a
+    void onCreate(android.os.Bundle) -> onCreate
+    android.app.Dialog onCreateDialog(android.os.Bundle) -> onCreateDialog
+    void onClick(android.content.DialogInterface,int) -> onClick
+org.jefferyemanuel.mainStuff.ReditListAdapter -> org.jefferyemanuel.mainStuff.d:
+    android.content.Context context -> a
+    java.util.ArrayList mUserPosts -> b
+    org.jefferyemanuel.mainStuff.DiskLruImageCache imageDiskCache -> c
+    void <init>(android.content.Context,int,java.util.ArrayList,org.jefferyemanuel.mainStuff.DiskLruImageCache) -> <init>
+    int getCount() -> getCount
+    java.util.HashMap getItem(int) -> a
+    long getItemId(int) -> getItemId
+    android.view.View getView(int,android.view.View,android.view.ViewGroup) -> getView
+    java.lang.Object getItem(int) -> getItem
+org.jefferyemanuel.mainStuff.ReditListAdapter$Holder -> org.jefferyemanuel.mainStuff.d$a:
+    java.lang.String author -> a
+    java.lang.String message -> b
+    java.lang.String avatar -> c
+    org.jefferyemanuel.mainStuff.ReditListAdapter this$0 -> d
+    void <init>(org.jefferyemanuel.mainStuff.ReditListAdapter) -> <init>
+org.jefferyemanuel.mainStuff.Utils -> org.jefferyemanuel.mainStuff.e:
+    void printLog(java.lang.String,java.lang.String) -> a
+    void createToast(android.content.Context,java.lang.String) -> a
+    boolean isExternalStorageRemovable() -> a
+    java.io.File getExternalCacheDir(android.content.Context) -> a
+    boolean hasExternalCacheDir() -> b

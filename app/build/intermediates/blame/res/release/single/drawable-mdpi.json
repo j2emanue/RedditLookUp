@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/drawable-mdpi/overlay.png",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/drawable-mdpi/overlay.png"
+    },
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/res/merged/release/drawable-mdpi/dimmer.png",
+        "source": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/drawable-mdpi/dimmer.png"
+    }
+]

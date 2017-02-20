@@ -1,0 +1,223 @@
+com.google.gson.DefaultDateTypeAdapter
+com.google.gson.ExclusionStrategy
+com.google.gson.FieldAttributes
+com.google.gson.FieldNamingPolicy
+com.google.gson.FieldNamingPolicy$1
+com.google.gson.FieldNamingPolicy$2
+com.google.gson.FieldNamingPolicy$3
+com.google.gson.FieldNamingPolicy$4
+com.google.gson.FieldNamingPolicy$5
+com.google.gson.FieldNamingStrategy
+com.google.gson.Gson
+com.google.gson.Gson$1
+com.google.gson.Gson$2
+com.google.gson.Gson$3
+com.google.gson.Gson$4
+com.google.gson.Gson$5
+com.google.gson.Gson$FutureTypeAdapter
+com.google.gson.GsonBuilder
+com.google.gson.InstanceCreator
+com.google.gson.JsonArray
+com.google.gson.JsonDeserializationContext
+com.google.gson.JsonDeserializer
+com.google.gson.JsonElement
+com.google.gson.JsonIOException
+com.google.gson.JsonNull
+com.google.gson.JsonObject
+com.google.gson.JsonParseException
+com.google.gson.JsonParser
+com.google.gson.JsonPrimitive
+com.google.gson.JsonSerializationContext
+com.google.gson.JsonSerializer
+com.google.gson.JsonStreamParser
+com.google.gson.JsonSyntaxException
+com.google.gson.LongSerializationPolicy
+com.google.gson.LongSerializationPolicy$1
+com.google.gson.LongSerializationPolicy$2
+com.google.gson.TreeTypeAdapter
+com.google.gson.TreeTypeAdapter$1
+com.google.gson.TreeTypeAdapter$SingleTypeFactory
+com.google.gson.TypeAdapter
+com.google.gson.TypeAdapter$1
+com.google.gson.TypeAdapterFactory
+com.google.gson.annotations.Expose
+com.google.gson.annotations.SerializedName
+com.google.gson.annotations.Since
+com.google.gson.annotations.Until
+com.google.gson.internal.$Gson$Preconditions
+com.google.gson.internal.$Gson$Types
+com.google.gson.internal.$Gson$Types$GenericArrayTypeImpl
+com.google.gson.internal.$Gson$Types$ParameterizedTypeImpl
+com.google.gson.internal.$Gson$Types$WildcardTypeImpl
+com.google.gson.internal.ConstructorConstructor
+com.google.gson.internal.ConstructorConstructor$1
+com.google.gson.internal.ConstructorConstructor$10
+com.google.gson.internal.ConstructorConstructor$11
+com.google.gson.internal.ConstructorConstructor$12
+com.google.gson.internal.ConstructorConstructor$2
+com.google.gson.internal.ConstructorConstructor$3
+com.google.gson.internal.ConstructorConstructor$4
+com.google.gson.internal.ConstructorConstructor$5
+com.google.gson.internal.ConstructorConstructor$6
+com.google.gson.internal.ConstructorConstructor$7
+com.google.gson.internal.ConstructorConstructor$8
+com.google.gson.internal.ConstructorConstructor$9
+com.google.gson.internal.Excluder
+com.google.gson.internal.Excluder$1
+com.google.gson.internal.JsonReaderInternalAccess
+com.google.gson.internal.LazilyParsedNumber
+com.google.gson.internal.LinkedTreeMap
+com.google.gson.internal.LinkedTreeMap$1
+com.google.gson.internal.LinkedTreeMap$EntrySet
+com.google.gson.internal.LinkedTreeMap$EntrySet$1
+com.google.gson.internal.LinkedTreeMap$KeySet
+com.google.gson.internal.LinkedTreeMap$KeySet$1
+com.google.gson.internal.LinkedTreeMap$LinkedTreeMapIterator
+com.google.gson.internal.LinkedTreeMap$Node
+com.google.gson.internal.ObjectConstructor
+com.google.gson.internal.Primitives
+com.google.gson.internal.Streams
+com.google.gson.internal.Streams$1
+com.google.gson.internal.Streams$AppendableWriter
+com.google.gson.internal.Streams$AppendableWriter$CurrentWrite
+com.google.gson.internal.UnsafeAllocator
+com.google.gson.internal.UnsafeAllocator$1
+com.google.gson.internal.UnsafeAllocator$2
+com.google.gson.internal.UnsafeAllocator$3
+com.google.gson.internal.UnsafeAllocator$4
+com.google.gson.internal.bind.ArrayTypeAdapter
+com.google.gson.internal.bind.ArrayTypeAdapter$1
+com.google.gson.internal.bind.CollectionTypeAdapterFactory
+com.google.gson.internal.bind.CollectionTypeAdapterFactory$Adapter
+com.google.gson.internal.bind.DateTypeAdapter
+com.google.gson.internal.bind.DateTypeAdapter$1
+com.google.gson.internal.bind.JsonTreeReader
+com.google.gson.internal.bind.JsonTreeReader$1
+com.google.gson.internal.bind.JsonTreeWriter
+com.google.gson.internal.bind.JsonTreeWriter$1
+com.google.gson.internal.bind.MapTypeAdapterFactory
+com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter
+com.google.gson.internal.bind.ObjectTypeAdapter
+com.google.gson.internal.bind.ObjectTypeAdapter$1
+com.google.gson.internal.bind.ObjectTypeAdapter$2
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$1
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter
+com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$BoundField
+com.google.gson.internal.bind.SqlDateTypeAdapter
+com.google.gson.internal.bind.SqlDateTypeAdapter$1
+com.google.gson.internal.bind.TimeTypeAdapter
+com.google.gson.internal.bind.TimeTypeAdapter$1
+com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper
+com.google.gson.internal.bind.TypeAdapters
+com.google.gson.internal.bind.TypeAdapters$1
+com.google.gson.internal.bind.TypeAdapters$10
+com.google.gson.internal.bind.TypeAdapters$11
+com.google.gson.internal.bind.TypeAdapters$12
+com.google.gson.internal.bind.TypeAdapters$13
+com.google.gson.internal.bind.TypeAdapters$14
+com.google.gson.internal.bind.TypeAdapters$15
+com.google.gson.internal.bind.TypeAdapters$16
+com.google.gson.internal.bind.TypeAdapters$17
+com.google.gson.internal.bind.TypeAdapters$18
+com.google.gson.internal.bind.TypeAdapters$19
+com.google.gson.internal.bind.TypeAdapters$2
+com.google.gson.internal.bind.TypeAdapters$20
+com.google.gson.internal.bind.TypeAdapters$21
+com.google.gson.internal.bind.TypeAdapters$22
+com.google.gson.internal.bind.TypeAdapters$22$1
+com.google.gson.internal.bind.TypeAdapters$23
+com.google.gson.internal.bind.TypeAdapters$24
+com.google.gson.internal.bind.TypeAdapters$25
+com.google.gson.internal.bind.TypeAdapters$26
+com.google.gson.internal.bind.TypeAdapters$27
+com.google.gson.internal.bind.TypeAdapters$28
+com.google.gson.internal.bind.TypeAdapters$29
+com.google.gson.internal.bind.TypeAdapters$3
+com.google.gson.internal.bind.TypeAdapters$30
+com.google.gson.internal.bind.TypeAdapters$31
+com.google.gson.internal.bind.TypeAdapters$32
+com.google.gson.internal.bind.TypeAdapters$4
+com.google.gson.internal.bind.TypeAdapters$5
+com.google.gson.internal.bind.TypeAdapters$6
+com.google.gson.internal.bind.TypeAdapters$7
+com.google.gson.internal.bind.TypeAdapters$8
+com.google.gson.internal.bind.TypeAdapters$9
+com.google.gson.internal.bind.TypeAdapters$EnumTypeAdapter
+com.google.gson.reflect.TypeToken
+com.google.gson.stream.JsonReader
+com.google.gson.stream.JsonReader$1
+com.google.gson.stream.JsonScope
+com.google.gson.stream.JsonToken
+com.google.gson.stream.JsonWriter
+com.google.gson.stream.MalformedJsonException
+com.jakewharton.disklrucache.DiskLruCache:
+    static final java.lang.String JOURNAL_FILE
+    static final java.lang.String JOURNAL_FILE_TEMP
+    static final java.lang.String JOURNAL_FILE_BACKUP
+    static final java.lang.String MAGIC
+    static final java.lang.String VERSION_1
+    static final long ANY_SEQUENCE_NUMBER
+    private static final java.lang.String CLEAN
+    private static final java.lang.String DIRTY
+    private static final java.lang.String REMOVE
+    private static final java.lang.String READ
+    479:479:public java.io.File getDirectory()
+    487:487:public synchronized long getMaxSize()
+    495:497:public synchronized void setMaxSize(long)
+    505:505:public synchronized long size()
+    609:609:public synchronized boolean isClosed()
+    665:665:private static java.lang.String inputStreamToString(java.io.InputStream)
+    88:88:static synthetic com.jakewharton.disklrucache.DiskLruCache$Editor access$1600(com.jakewharton.disklrucache.DiskLruCache,java.lang.String,long)
+    88:88:static synthetic java.lang.String access$1700(java.io.InputStream)
+com.jakewharton.disklrucache.DiskLruCache$Editor:
+    737:749:public java.io.InputStream newInputStream(int)
+    757:758:public java.lang.String getString(int)
+    796:803:public void set(int,java.lang.String)
+    828:834:public void abortUnlessCommitted()
+com.jakewharton.disklrucache.DiskLruCache$Snapshot:
+    688:688:public com.jakewharton.disklrucache.DiskLruCache$Editor edit()
+    698:698:public java.lang.String getString(int)
+    703:703:public long getLength(int)
+com.jakewharton.disklrucache.StrictLineReader:
+    private static final byte CR
+    private static final byte LF
+com.jakewharton.disklrucache.Util:
+    31:32:private Util()
+    36:44:static java.lang.String readFully(java.io.Reader)
+org.jefferyemanuel.contentProviders.GroupSuggestionContentProvider:
+    private static final int SEARCH_SUGGEST
+org.jefferyemanuel.listeners.TaskCallbacks:
+    public abstract void onProgressUpdate(int)
+    public abstract void onCancelled()
+org.jefferyemanuel.mainStuff.BuildConfig
+org.jefferyemanuel.mainStuff.Consts
+org.jefferyemanuel.mainStuff.DiskLruImageCache:
+    private static final int APP_VERSION
+    private static final int VALUE_COUNT
+    private static final java.lang.String TAG
+    188:201:public boolean containsKey(java.lang.String)
+    210:214:public void clearCache()
+    217:217:public java.io.File getCacheFolder()
+org.jefferyemanuel.mainStuff.JSONParser:
+    178:186:public void CreateAndSaveFile(java.lang.String,java.lang.String)
+    193:217:public org.json.JSONObject ReadJsonData(java.lang.String)
+org.jefferyemanuel.mainStuff.Linkifier
+org.jefferyemanuel.mainStuff.Linkifier$InternalURLSpan
+org.jefferyemanuel.mainStuff.MainActivity:
+    180:180:public void onProgressUpdate(int)
+    185:187:public void onCancelled()
+org.jefferyemanuel.mainStuff.R
+org.jefferyemanuel.mainStuff.R$attr
+org.jefferyemanuel.mainStuff.R$color
+org.jefferyemanuel.mainStuff.R$dimen
+org.jefferyemanuel.mainStuff.R$drawable
+org.jefferyemanuel.mainStuff.R$id
+org.jefferyemanuel.mainStuff.R$layout
+org.jefferyemanuel.mainStuff.R$menu
+org.jefferyemanuel.mainStuff.R$string
+org.jefferyemanuel.mainStuff.R$style
+org.jefferyemanuel.mainStuff.R$xml
+org.jefferyemanuel.mainStuff.Utils:
+    19:19:private Utils()
+    30:38:public static void hideKeyboard(android.app.Activity)

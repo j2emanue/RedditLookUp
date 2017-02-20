@@ -1,0 +1,505 @@
+[
+    {
+        "outputFile": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 827,
+                        "endColumn": 39,
+                        "endOffset": 862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 35,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 867,
+                        "endColumn": 35,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 131,
+                    "endColumn": 46,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 46,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 49,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 49,
+                        "endOffset": 731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 49,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1286,
+                        "endColumn": 46,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 38,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endColumn": 38,
+                        "endOffset": 822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 39,
+                    "endOffset": 352
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 39,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 357,
+                    "endColumn": 45,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 45,
+                        "endOffset": 1101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 403,
+                    "endColumn": 44,
+                    "endOffset": 443
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 44,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 448,
+                    "endColumn": 38,
+                    "endOffset": 482
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1250,
+                        "endColumn": 35,
+                        "endOffset": 1284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 487,
+                    "endColumn": 34,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 34,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 47,
+                    "endOffset": 565
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1106,
+                        "endColumn": 47,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 570,
+                    "endColumn": 51,
+                    "endOffset": 617
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 51,
+                        "endOffset": 1201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 622,
+                    "endColumn": 51,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 736,
+                        "endColumn": 51,
+                        "endOffset": 783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 36,
+                    "endOffset": 706
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 36,
+                        "endOffset": 970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 711,
+                    "endColumn": 57,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 55,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 52,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 52,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 90,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 90,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 51,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 550,
+                        "endColumn": 51,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 47,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 628,
+                        "endColumn": 43,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 78,
+                    "endOffset": 1143
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 358,
+                        "endColumn": 78,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1148,
+                    "endColumn": 125,
+                    "endOffset": 1269
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 125,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1274,
+                    "endColumn": 85,
+                    "endOffset": 1355
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 85,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1646
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1651,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 1806
+                },
+                "from": {
+                    "file": "/Users/j2emanue/Documents/StudioProjects/redditLookUp1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

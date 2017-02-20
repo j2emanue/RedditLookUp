@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:50
+-keep class org.jefferyemanuel.contentProviders.GroupSuggestionContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:31
+-keep class org.jefferyemanuel.mainStuff.MainActivity { <init>(...); }
+
